@@ -1,9 +1,5 @@
 <h1 align="center"><b></b></h1>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
-</p>
-
 </br>
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
