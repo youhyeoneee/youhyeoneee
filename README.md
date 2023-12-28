@@ -1,5 +1,3 @@
-<div align=center>
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=350&section=header&text=☁️youhyeoneee☁️&fontSize=40)
 
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
@@ -37,7 +35,6 @@ Backend Developer
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=true"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer"/>
-</div>
 <!--
 **youhyeoneee/youhyeoneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
