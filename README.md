@@ -3,6 +3,8 @@
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
 ### 💭 Want to be.. 
 Backend Developer
+닭도리탕 양파,감자 편식함.   
+고기만 먹으면 건강에 해로움
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhyeoneee&count_private=true&show_icons=true&theme=default)
 
