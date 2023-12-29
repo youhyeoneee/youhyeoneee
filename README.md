@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
 ### 💭 Want to be.. 
-Backend Developer
+Backend Developer   
 닭도리탕 양파,감자 편식함.   
 고기만 먹으면 건강에 해로움
 
