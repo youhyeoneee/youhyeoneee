@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=350&section=header&text=☁️youhyeoneee☁️&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=350&section=header&text=☁️%20youhyeoneee%20☁️&fontSize=40)
 
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
 ### 💭 Want to be.. 
