@@ -2,7 +2,9 @@
 
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
 ### 💭 Want to be.. 
-Backend Developer   
+
+- Backend Developer
+- 기술 커뮤니티에 적극적으로 참여하며, 지식을 나누고 다른 개발자들과 함께 성장하는 커뮤니티 기여자
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhyeoneee&count_private=true&show_icons=true&theme=default)
 
