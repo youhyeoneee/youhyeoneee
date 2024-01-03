@@ -17,7 +17,9 @@
 
 ### 🛠️ Tech Stack:
 
-- Programming language : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+- Programming language : 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 - Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
