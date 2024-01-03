@@ -23,7 +23,7 @@
 - Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 - Backend : ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 - DB : ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- Game Engine : ![Unity](https://img.shields.io/badge/-Unity-%23000000.svg?style=flat&logo=unity&logoColor=white) 
+- Game engine : ![Unity](https://img.shields.io/badge/-Unity-%23000000.svg?style=flat&logo=unity&logoColor=white) 
 - Communication : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
 ### 🏅 Stat:
@@ -34,7 +34,6 @@
 ### 💌 Contact:
   <a href="https://velog.io/@youhyeoneee/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:yuhyeon74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
 
 ### 🔫 Hit:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
