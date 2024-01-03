@@ -6,15 +6,14 @@
 - Backend Developer
 - 기술 커뮤니티에 적극적으로 참여하며 배운 만큼, 혹은 그 이상의 지식을 나누고 함께 성장하는 개발자가 되겠습니다 ❤️‍🔥
 
+### 🏫 Education: 
+- B.S. in Computer Engineering, Kyunghee Univ, Republic of Korea (2018.03 - 2022.02)
 
 ### 🏢 Experience: 
 - 신한투자증권 _ 프로 디지털 아카데미 3기 (2023.12 ~ ing)
 - Supercent _ 하이퍼 캐주얼 게임 개발 아카데미 3기 (2023.05 ~ 2023.07)
 - NAVER Z _ Tech Evangelist (2022.10 ~ 2023.04)
 - 셰어킴 _ Backend Developer (2019.12 ~ 2020.08) 
-
-### 🏫 Education: 
-- B.S. in Computer Engineering, Kyunghee Univ, Republic of Korea (2018.03 - 2022.02)
 
 ### 🛠️ Tech Stack:
 
