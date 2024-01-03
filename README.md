@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youhyeoneee&count_private=true&show_icons=true&theme=default)
 
-### 💻 Tech Stack:
+### 🛠️ Tech Stack:
 
 #### 🌟 Skillful 
 
@@ -28,9 +28,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
 <br>
 
-### 🏫 Education: 
+### 🏢 Experience: 
+- Supercent _ 하이퍼 캐주얼 게임 개발 아카데미 3기 (2022.05 ~ 2022.07)
+- NAVER Z _ Tech Evangelist (2022.10 ~ 2023.04)
+- 셰어킴 _ Backend Developer (2019.12 ~ 2020.08) 
 
-2018.03 - 2022.02 : B.S. in Computer Engineering, Kyunghee Univ, Republic of Korea
+### 🏫 Education: 
+- B.S. in Computer Engineering, Kyunghee Univ, Republic of Korea (2018.03 - 2022.02)
 
 ### 🔫 Hits:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
