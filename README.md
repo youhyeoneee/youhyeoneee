@@ -43,4 +43,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40youhyeoneee&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=true"/></a>
 
+### 인스턴스 유형에 따른 성능 비교 
+| 유형 | 속도 |
+|-------|-------|
+| `T (t4g.medium)` | `2.20709sec` |
+| `M (m7g.medium)` | `2.55987sec` |
+| `C (c6g.medium)` | `2.98004sec` |
+| `R (r7g.medium)` | `2.23438sec` |
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer"/>
