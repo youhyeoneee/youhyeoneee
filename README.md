@@ -3,7 +3,6 @@
 ## Hi there 👋 I'm Yuhyeon Kim 👩‍💻
 
 ### 💭 Want to be.. 
-- Backend Developer
 - 기술 커뮤니티에 적극적으로 참여하며 배운 만큼, 혹은 그 이상의 지식을 나누고 함께 성장하는 개발자가 되겠습니다 ❤️‍🔥
 
 ### 🏫 Education: 
